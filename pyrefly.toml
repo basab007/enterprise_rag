@@ -1,0 +1,2 @@
+python-interpreter-path = "enterprise_rag_venv/Scripts/python.exe"
+project-excludes = ["enterprise_rag_venv/**"]
